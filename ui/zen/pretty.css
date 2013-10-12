@@ -19,7 +19,7 @@ blockquote b i {font-style: italic;}
 kbd {font-weight: bold; font-size: 1em;}
 sup {font-size: smaller; line-height: 1px;}
 
-.slide code {border-bottom: 2px solid #ccc; border-top: 2px solid #ccc; font-family: font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; padding: 2px 0.25em; font-weight: bold; color: #666;}
+.slide code {font-family: font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; padding: 2px 0.25em; font-weight: 600; color: #666;}
 .slide code.bad, code del {color: #e30613;}
 .slide pre {padding: 0; margin: 0.25em 0 0.5em 0.5em; color: #666; font-size: 90%;}
 .slide pre code {display: block;}
